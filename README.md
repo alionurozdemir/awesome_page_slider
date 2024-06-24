@@ -9,7 +9,9 @@ A Flutter package to display detailed views of pages with smooth sliding effects
 - Page indicators
 
 
-<img src="https://github.com/alionurozdemir/awesome_page_slider/main/lib/screenshot/awesome_page_slider.gif" width="320px" />
+
+
+<img src="https://github.com/alionurozdemir/awesome_page_slider/blob/main/lib/screenshot/awesome_page_slider.gif?raw=true" width="320px" />
 
 
 ## Installation
